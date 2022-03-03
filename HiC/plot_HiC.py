@@ -1,11 +1,9 @@
-#!/store/jsxu/biosoft/minicondas3/envs/biosoft/bin/python
+#!/bin/python
 # -*- coding:utf-8 -*-
 ###
 # File: plot_HiC.py
-# Created Date: 2021-06-21
 # Author: jsxu
 # Contact: <hzaujsxu@163.com>
-# Last Modified: Wednesday June 23rd 2021 3:18:28 pm
 # TDDO: plot heatmap and bw tracks of given regions.
 ###
 
